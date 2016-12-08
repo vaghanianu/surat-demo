@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+	<head>
+		<title>First Bootstrap Demo</title>
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<style src="JQuery.js"></style>
+		<style src="js/bootstrap.js"></style>
+	</head>
+	<body>
+		<div class="container-fluid">
+		<div class="jumbotron"></div>
+		<table class="table table-striped table-hover">
+			<thead>
+				<tr>
+					<th>No</th>
+					<th>Name</th>
+					<th>Contact No.</th>
+					<th>Email</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>001</td>
+					<td>Anil Vaghani</td>
+					<td>8866646365</td>
+					<td>vaghanianu@gmail.com</td>
+				</tr>
+				<tr>
+					<td>002</td>
+					<td>Rahul Roy</td>
+					<td>999999987</td>
+					<td>rahulroy@gmail.com</td>
+				</tr>
+				<tr>
+					<td>003</td>
+					<td>Anil Vaghani</td>
+					<td>8866646365</td>
+					<td>vaghanianu@gmail.com</td>
+				</tr>
+				<tr>
+					<td>004</td>
+					<td>Rahul Roy</td>
+					<td>999999987</td>
+					<td>rahulroy@gmail.com</td>
+				</tr>
+			</tbody>
+		</table>
+		<div class="col-md-1">
+			<div style="background: red;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: green;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: blue;">Hello World</div>
+		</div><div class="col-md-1">
+			<div style="background: red;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: green;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: blue;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: red;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: green;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: blue;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: red;">Hello World</div>
+		</div>
+		<div class="col-md-1">
+			<div style="background: green;">Hello World</div>
+		</div>
+		<div class="col-md-6">
+			<div style="background: blue;">Hello World</div>
+		</div>
+		
+		</div>
+		<div>
+		<p class="text-danger bg-danger">Victory Infotech</p>
+		<p class="text-info bg-info">Victory Infotech</p>
+		<p class="text-primary bg-primary">Victory Infotech</p>
+		<p class="text-warning bg-warning">Victory Infotech</p>
+		<p class="text-success bg-success">Victory Infotech</p>
+		<p class="text-muted">Victory Infotech</p>
+		<p class="lead">Victory Infotech</p>
+		<p class="small">Victory Infotech</p>
+		<p class="text-capitalize">victory infotech</p>
+		<p class="text-lowercase">Victory Infotech</p>
+		<p class="text-uppercase">Victory Infotech</p>
+		<p class="text-danger">Victory Infotech</p>
+		<p class="text-right">Victory Infotech</p>
+		<p class="text-center">Victory Infotech</p>
+		<p class="text-left">Victory Infotech</p>
+		</div>
+	</body>
+</html>
